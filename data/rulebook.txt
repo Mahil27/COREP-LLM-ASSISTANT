@@ -1,0 +1,9 @@
+Common Equity Tier 1 (CET1) capital includes ordinary shares and retained earnings.
+
+Banks must maintain a minimum CET1 ratio of 4.5% of risk-weighted assets.
+
+Tier 1 capital consists of CET1 and Additional Tier 1 instruments.
+
+Risk-weighted assets determine the minimum capital requirement.
+
+If exposure exceeds regulatory thresholds, additional capital buffers apply.

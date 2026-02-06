@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# FAISS index (optional - see note below)
+faiss_index/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# HuggingFace cache
+.cache/
